@@ -19,8 +19,11 @@ Include names and email addresses of all people on this project team.
 ## Iteration Documentation:
 User stories are often written on index cards or sticky notes, stored in a shoe box, and arranged on walls or tables to facilitate planning and discussion. As such, they strongly shift the focus from writing about features to discussing them. In fact, these discussions are more important than whatever text is written. Include a captioned figure showing how your team has iterated on your user stories - it can be a picture of a whiteboard with some early ideas, a table with index cards, or a wall with sticky notes. Document your process with a photo from at least one in-person or virtual meeting in a collaborative workspace with your team.
 
-## Previous Work:
-While this section will not be as complete as in your design document, you should begin to discuss what has been done in this area. Find at least 3 significant projects or papers and describe how they are relevant to your topic. Your bibliography can include both academic work and any relevant commercial tools. Feel free to include relevant examples from the in-class research presentations. You do not have to go into great detail here, just make it clear that you have looked around and started to get a lay of the land for what has been done before.
+## Related Work:
+While this section will not be as complete as in your design document, you should begin to discuss what has been done in this area. Find at least 3 significant projects or papers, and describe how they are relevant to your topic. Your bibliography can include both academic work and any relevant commercial tools. Feel free to include relevant examples from the in-class research presentations. You do not have to go into great detail here. Just make it clear that you have looked around and started to get a lay of the land for what has been done before.
+
+### Graduate Students Only: 
+For the Related Work, you *will* be expected to go into greater detail about relevant previous publications. Think of this as a draft of a Related Work section in a paper. Include a minimum of 6 significant academic articles (+ any additional relevant projects), and describe in sufficient academically rigorous detail how they are relevant to your topic. *One statement per project team* means that teams that include graduate student(s) will be expected to have graduate-level Related Work, though undergraduate team members will be graded according to the prior expectations. 
 
 **One statement per project team is due as a push (not just a commit) to github. Submissions should be in pdf, txt, or markdown (md).**
 
