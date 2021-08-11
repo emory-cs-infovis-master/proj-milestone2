@@ -23,8 +23,19 @@ User stories are often written on index cards or sticky notes, stored in a shoe 
 While this section will not be as complete as in your design document, you should begin to discuss what has been done in this area. Find at least 3 significant projects or papers, and describe how they are relevant to your topic. Your bibliography can include both academic work and any relevant commercial tools. Feel free to include relevant examples from the in-class research presentations. You do not have to go into great detail here. Just make it clear that you have looked around and started to get a lay of the land for what has been done before.
 
 ### Graduate Students Only: 
-For the Related Work, you *will* be expected to go into greater detail about relevant previous publications. Think of this as a draft of a Related Work section in a paper. Include a minimum of 6 significant academic articles (+ any additional relevant projects), and describe in sufficient academically rigorous detail how they are relevant to your topic. *One statement per project team* means that teams that include graduate student(s) will be expected to have graduate-level Related Work, though undergraduate team members will be graded according to the prior expectations. 
+For the Related Work, you *will* be expected to go into greater detail about relevant previous publications. Starting with your team's bibliography above, expand it to what could be a draft Related Work section in a paper. Include a minimum of 6 significant academic articles (+ any additional relevant projects), and describe in sufficient academically rigorous detail how they are relevant to your topic. *One statement per project team* means that teams that include graduate student(s) will be expected to have graduate-level Related Work, though undergraduate team members will be graded according to the prior expectations. 
 
-**One statement per project team is due as a push (not just a commit) to github. Submissions should be in pdf, txt, or markdown (md).**
+**One or two (for combined under/graduate teams) statements per project team due as a push (not just a commit) to github. Submissions should be in pdf, txt, or markdown (md).**
 
+## Grading: 
+[10%] Title & teammates
+[10%] Dataset description
+[60%] User stories
+- [20%] Compelling scenario and motivation
+- [30%] Task description 
+- [10%] Documentation of iteration
+
+[20%] Description of related projects or papers
+
+### Resources: 
 1: Cohn, M. (2004). User stories applied: For agile software development. Addison-Wesley Professional.
