@@ -29,7 +29,9 @@ For the Related Work, you *will* be expected to go into greater detail about rel
 
 ## Grading: 
 [10%] Title & teammates
+
 [10%] Dataset description
+
 [60%] User stories
 - [20%] Compelling scenario and motivation
 - [30%] Task description 
