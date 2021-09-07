@@ -39,5 +39,8 @@ For the Related Work, you *will* be expected to go into greater detail about rel
 
 [20%] Description of related projects or papers
 
+### Formatting: 
+For all assignments involving written reports, use Times Roman 11 point type with normal margins, 1.5 line spacing. 
+
 ### Resources: 
 1: Cohn, M. (2004). User stories applied: For agile software development. Addison-Wesley Professional.
